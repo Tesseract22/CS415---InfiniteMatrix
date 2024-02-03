@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/caleb/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/caleb/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/caleb/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/caleb/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/caleb/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Hp.uasset",
+				"C:/Users/caleb/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/caleb/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/T_HealthPack.uasset",
+				"D:/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/caleb/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Bullet.uasset",
+				"C:/Users/caleb/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_InjuredShake.uasset",
+				"C:/Users/caleb/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Controller.uasset",
+				"C:/Users/caleb/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/M_HealthPack.uasset",
+				"C:/Users/caleb/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/M_Enemy.uasset",
+				"C:/Users/caleb/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_Tunnel.uasset",
+				"C:/Users/caleb/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/NewBlueprint.uasset",
+				"C:/Users/caleb/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset"
+			]
+		}
+	]
+}
